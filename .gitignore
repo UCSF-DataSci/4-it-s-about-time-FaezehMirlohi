@@ -2,3 +2,6 @@ a-wearable-exam-stress-dataset-for-predicting-cognitive-performance-in-real-worl
 demo/
 lecture_04.md
 data/
+.DS_Store
+myenv/
+.github/tests/__pycache__/
